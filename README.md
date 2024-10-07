@@ -24,10 +24,10 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 - Website: [tanvirulislam.xyz](https://tanvirulislam.xyz)
 
 ## 🏆 **Most Used Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislam&layout=compact&theme=light&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislm)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 **GitHub Metrics:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvirulislam&show_icons=true&theme=light&hide_border=true)
+![GitHub metrics](https://metrics.lecoq.io/tanvirulislm)  
 
 ## 🚀 **Fun Fact:**
 I’m always on the lookout for new and exciting challenges in the PHP world. Let's build something awesome together!
