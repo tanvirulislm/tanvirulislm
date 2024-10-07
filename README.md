@@ -16,12 +16,18 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 - **MySQL** - Designing and optimizing databases
 - Advanced PHP patterns and best practices
 
-## 👨‍💻 **Projects:**
-I actively work on personal projects and contribute to open-source when possible. Check out my repositories to see what I've been up to!
+## 🌍 **Website:**
+[tanvirulislam.xyz](https://tanvirulislam.xyz) ![Globe Icon](https://img.icons8.com/ios-filled/24/000000/earth.png)
 
 ## 📫 **How to Reach Me:**
-- Email: [hello@tanvirulislam.xyz](mailto:hello@tanvirulislam.xyz)
-- LinkedIn: [Tanvirul Islam](https://www.linkedin.com/in/tanvirulislm/)
+- ![Email Icon](https://img.icons8.com/ios-filled/24/000000/mail.png) [hello@tanvirulislam.xyz](mailto:hello@tanvirulislam.xyz)
+- ![LinkedIn Icon](https://img.icons8.com/ios-filled/24/000000/linkedin-circled.png) [Tanvirul Islam](https://www.linkedin.com/in/tanvirulislm/)
+
+## 🏆 **Most Used Languages:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislm&layout=compact&theme=radical)
+
+## 📊 **GitHub Metrics:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvirulislm&show_icons=true&theme=radical)
 
 ## 🚀 **Fun Fact:**
 I’m always on the lookout for new and exciting challenges in the PHP world. Let's build something awesome together!
