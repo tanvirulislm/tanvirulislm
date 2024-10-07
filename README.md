@@ -16,22 +16,20 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 - **MySQL** - Designing and optimizing databases
 - Advanced PHP patterns and best practices
 
-## 🌍 **Website:**
-[tanvirulislam.xyz](https://tanvirulislam.xyz) ![Globe Icon](https://img.icons8.com/ios-filled/24/000000/earth.png)
-
 ## 📫 **How to Reach Me:**
-- ![Email Icon](https://img.icons8.com/ios-filled/24/000000/mail.png) [hello@tanvirulislam.xyz](mailto:hello@tanvirulislam.xyz)
-- ![LinkedIn Icon](https://img.icons8.com/ios-filled/24/000000/linkedin-circled.png) [Tanvirul Islam](https://www.linkedin.com/in/tanvirulislm/)
+- Email: [hello@tanvirulislam.xyz](mailto:hello@tanvirulislam.xyz)  
+- LinkedIn: [Tanvirul Islam](https://www.linkedin.com/in/tanvirulislm/)  
+- Website: [tanvirulislam.xyz](https://tanvirulislam.xyz)
 
 ## 🏆 **Most Used Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislm&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislam&layout=compact&theme=light&hide_border=true)
 
 ## 📊 **GitHub Metrics:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvirulislm&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvirulislam&show_icons=true&theme=light&hide_border=true)
 
 ## 🚀 **Fun Fact:**
 I’m always on the lookout for new and exciting challenges in the PHP world. Let's build something awesome together!
 
 ---
 
-⭐️ From [Tanvirul Islam](https://github.com/tanvirulislm)
+⭐️ From [Tanvirul Islam](https://github.com/tanvirulislam)
