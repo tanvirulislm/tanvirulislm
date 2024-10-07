@@ -1,6 +1,8 @@
+![Header Image](https://media.licdn.com/dms/image/v2/D5622AQFnE_Gs62orSg/feedshare-shrink_800/feedshare-shrink_800/0/1728283315988?e=1730937600&v=beta&t=9U1VXub3pzq_w4xFxXr6H_kqG0lFp1_H-JL2X8onSR4)
+
 # Hi there! 👋
 
-I'm a passionate PHP developer, currently diving deeper into the world of **Laravel** and **MySQL**. I enjoy building efficient and scalable web applications while continuously exploring modern web technologies.
+I'm a passionate PHP developer, currently diving deeper into **Laravel** and **MySQL**. I enjoy building efficient, scalable web applications while continuously exploring modern web technologies.
 
 ## 🛠️ **Technologies & Tools:**
 - PHP
@@ -26,4 +28,4 @@ I’m always on the lookout for new and exciting challenges in the PHP world. Le
 
 ---
 
-⭐️ From [YourUsername](https://github.com/tanvirulislm)
+⭐️ From [Tanvirul Islam](https://github.com/tanvirulislm)
