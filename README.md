@@ -18,12 +18,12 @@ I'm a passionate PHP developer, currently diving deeper into the world of **Lara
 I actively work on personal projects and contribute to open-source when possible. Check out my repositories to see what I've been up to!
 
 ## 📫 **How to Reach Me:**
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](#)
+- Email: [your-email@example.com](mailto:hello@tanvirulislam.xyz)
+- LinkedIn: [Tanvirul Islam](https://www.linkedin.com/in/tanvirulislm/)
 
 ## 🚀 **Fun Fact:**
 I’m always on the lookout for new and exciting challenges in the PHP world. Let's build something awesome together!
 
 ---
 
-⭐️ From [YourUsername](https://github.com/YourUsername)
+⭐️ From [YourUsername](https://github.com/tanvirulislm)
