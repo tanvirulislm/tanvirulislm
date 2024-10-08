@@ -35,15 +35,7 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 ## 🏆 **Most Used Languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislm)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 **Most Used Languages:**
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/tanvirulislam?tab=repositories&q=&type=&language=php)  40%  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/tanvirulislam?tab=repositories&q=&type=&language=javascript)  25%  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/tanvirulislam?tab=repositories&q=&type=&language=html)  15%  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/tanvirulislam?tab=repositories&q=&type=&language=css)  10%  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/tanvirulislam?tab=repositories&q=&type=&language=mysql)  10%
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## 🚀 **Fun Fact:**
 I’m always on the lookout for new and exciting challenges in the PHP world. Let's build something awesome together!
