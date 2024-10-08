@@ -22,8 +22,9 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
 ## 🌱 **Currently Learning:**
-- **Laravel** - Building advanced web apps and APIs
-- **MySQL** - Designing and optimizing databases
+- **Vue.js** - Building reactive user interfaces
+- **Laravel** - Advanced web apps and APIs
+- **MySQL** - Database optimization
 - Advanced PHP patterns and best practices
 
 ## 📫 **How to Reach Me:**
