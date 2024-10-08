@@ -2,7 +2,7 @@
   <img src="https://github.com/tanvirulislm/first_git/blob/main/Add%20a%20subheading.png?raw=true" alt="Header Image" width="100%">
 </h1>
 
-# Hi there! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 I'm a passionate PHP developer, currently diving deeper into **Laravel** and **MySQL**. I enjoy building efficient, scalable web applications while continuously exploring modern web technologies.
 
