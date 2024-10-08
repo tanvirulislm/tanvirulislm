@@ -27,14 +27,12 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirulislam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@tanvirulislam.xyz)
-[![Website](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://tanvirulislam.xyz)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google&logoColor=white)](https://tanvirulislam.xyz)
 
 
 ## 🏆 **Most Used Languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislm)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 **GitHub Metrics:**
-![GitHub metrics](https://metrics.lecoq.io/tanvirulislm)
 
 ## 🚀 **Fun Fact:**
 I’m always on the lookout for new and exciting challenges in the PHP world. Let's build something awesome together!
