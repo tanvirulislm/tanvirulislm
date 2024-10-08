@@ -24,9 +24,11 @@ I'm a passionate PHP developer, currently diving deeper into **Laravel** and **M
 - Advanced PHP patterns and best practices
 
 ## 📫 **How to Reach Me:**
-- Email: [hello@tanvirulislam.xyz](mailto:hello@tanvirulislam.xyz)  
-- LinkedIn: [Tanvirul Islam](https://www.linkedin.com/in/tanvirulislam/)  
-- Website: [tanvirulislam.xyz](https://tanvirulislam.xyz)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirulislam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@tanvirulislam.xyz)
+[![Website](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://tanvirulislam.xyz)
+
 
 ## 🏆 **Most Used Languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirulislm)](https://github.com/anuraghazra/github-readme-stats)
